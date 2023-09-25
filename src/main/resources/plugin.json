@@ -1,0 +1,11 @@
+{
+    "name": "nightmare",
+    "displayName": "Nightmare",
+    "description": "",
+    "author": "VoidDustry",
+    "main": "net.voiddustry.nightmare.Main",
+    "hidden": false,
+    "java": true,
+    "version": "0.1",
+    "minGameVersion": 146
+}
